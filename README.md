@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I love this picture so much!
+
+![pexels-francesco-ungaro-2835436](https://user-images.githubusercontent.com/69048387/124858225-82d94c00-df62-11eb-864e-2681fffc957c.jpg)
+
 
 <!--
 **seth808rose/seth808rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
