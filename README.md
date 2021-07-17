@@ -1,6 +1,4 @@
-### Hi 👋 I love this picture so much!
-
-![pexels-francesco-ungaro-2835436](https://user-images.githubusercontent.com/69048387/124858225-82d94c00-df62-11eb-864e-2681fffc957c.jpg)
+### Hi 👋 Spread more LOVE and KICK OUT THE HATE!
 
 - 🔭 I’m currently working on my Profile page
 - 🌱 I’m currently learning React
