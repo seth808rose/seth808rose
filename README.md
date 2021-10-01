@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about my people skills.
-- 📫 How to reach me: "Just call on Tyrone"!
+- 📫 How to reach me: Twitter, LinkedIn..
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I grew up in the South Pacific and am fluent in the Samoan language
 
