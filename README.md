@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on just finishing projects I've started!.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source.
-- 🤔 I’m looking for help with finding a job.
+- 🤔 I’m looking to grow.
 - 💬 Ask me about my people skills.
 - 📫 How to reach me: Twitter, LinkedIn..
 - 😄 Pronouns: Him/His
