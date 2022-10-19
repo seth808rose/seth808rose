@@ -1,6 +1,6 @@
 ### Hi 👋 Spread more LOVE and KICK OUT THE HATE!
 
-- 🔭 I’m currently working on my Front End Shoftware Dev career.
+- 🔭 I’m currently working on just finishing projects I've started!.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with finding a job.
